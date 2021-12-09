@@ -1,0 +1,19 @@
+{
+  "name": "Bart Simpson",
+  "symbol": "",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "BQchxZZNaoZQzrApNBrk9KRtmdqS41YMW34Jf9oN1hWo",
+        "share": 100
+      }
+    ]
+  }
+}
